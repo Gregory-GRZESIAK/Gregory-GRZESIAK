@@ -1,16 +1,18 @@
-### Hi there 👋
+# 🔍 - Welcome on my profile !
 
-<!--
-**Gregory-GRZESIAK/Gregory-GRZESIAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Gregory GRZESIAK and I am passionate about IT. I would like to become a Full Stack developer. I set up a small project that I give to myself or that I am given.
 
-Here are some ideas to get you started:
+# 📀 - Language and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python 3.10 ( Pycharm / IDLE Python )
+- HTML / CSS / JavaScript ( Visual Studio Code )
+- Arduino ( Arduino )
+- C# ( In learning )
+
+# 🖇️ To find me
+- Twitter - [@Gregofrigo](https://twitter.com/gregofrigo)
+- Discord - [AKM I Greg#0001](https://discord.gg/VtXPpqXMZF)
+
+
+# 📩 - To contact me
+- [greg@unosial.com](mailto:greg@unosial.com)
