@@ -5,6 +5,7 @@ I am Gregory GRZESIAK and I am passionate about IT. I would like to become a Ful
 # 📀 - Language and Tools
 
 - Python 3.10 ( Pycharm / IDLE Python )
+- Javascript -> Node Js ( Webstorm )
 - HTML / CSS / JavaScript ( Visual Studio Code )
 - Arduino ( Arduino )
 - C# ( In learning )
