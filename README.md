@@ -15,4 +15,4 @@ I am Gregory GRZESIAK and I am passionate about IT. I would like to become a Ful
 
 
 # 📩 - To contact me
-- [greg@unosial.com](mailto:greg@unosial.com)
+- [gregory@grzesiak.fr](mailto:gregory@grzesiak.fr)
