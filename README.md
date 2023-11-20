@@ -8,6 +8,7 @@ I am Gregory GRZESIAK and I am passionate about IT. I would like to become a Ful
 - Javascript -> Node Js ( Webstorm )
 - HTML / CSS / JavaScript ( Visual Studio Code )
 - Arduino ( Arduino )
+- PHP ( In learning )
 - C# ( In learning )
 
 # 🖇️ To find me
