@@ -13,7 +13,6 @@ I am Gregory GRZESIAK and I am passionate about IT. I would like to become a Ful
 
 # 🖇️ To find me
 - Twitter - [@Gregofrigo](https://twitter.com/gregofrigo)
-- Discord - [AKM I Greg#0001](https://discord.gg/VtXPpqXMZF)
 
 
 # 📩 - To contact me
