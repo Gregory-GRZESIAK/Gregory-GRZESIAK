@@ -73,9 +73,9 @@ Je suis Grégory Grzesiak
 
 |                                                                     Vishal's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Grégory-GRZESIAK's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Grégory-GRZESIAK&theme=react-dark&hide_border=true&area=true) |
-| ![Grégory-GRZESIAK's github stats](https://github-readme-stats.vercel.app/api?username=Grégory-GRZESIAK&show_icons=true&theme=algolia)              | 
-| ![Grégory-GRZESIAK's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Grégory-GRZESIAK&theme=algolia)                    | 
+|![Gregory-GRZESIAK's Stats](https://github-readme-stats.vercel.app/api?username=Gregory-GRZESIAK&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) |
+| ![Gregory-GRZESIAK's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gregory-GRZESIAK&theme=vue-dark&hide_border=true)              | 
+| ![Gregory-GRZESIAK's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gregory-GRZESIAK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)                   | 
     
 
 |                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
