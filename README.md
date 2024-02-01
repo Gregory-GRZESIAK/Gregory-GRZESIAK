@@ -11,7 +11,7 @@ Hi, I'm Vishal Maurya!
 </p>
 
 
-<img align="left" src="[https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png](https://cdn.discordapp.com/attachments/1072150597916172298/1072150769492578334/AKM_I_Greg_A_scene_of_a_character_of_a_young_boy_seen_in_profil_770478ea-b166-4b1e-82d8-db9ca612c30f.png?ex=65ca20b7&is=65b7abb7&hm=a25bf1b0ac3f784cfef30a95b0c79d2af6b5e6e7e1566ccf32fac9dbc5899c3e&)" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://cdn.discordapp.com/attachments/1072150597916172298/1072150769492578334/AKM_I_Greg_A_scene_of_a_character_of_a_young_boy_seen_in_profil_770478ea-b166-4b1e-82d8-db9ca612c30f.png?ex=65ca20b7&is=65b7abb7&hm=a25bf1b0ac3f784cfef30a95b0c79d2af6b5e6e7e1566ccf32fac9dbc5899c3e" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
