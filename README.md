@@ -78,7 +78,7 @@ Je suis Grégory Grzesiak
 
 |                                                                                                      Grégory Grzesiak - Streak                                                                                                           |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](![Gregory-GRZESIAK's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gregory-GRZESIAK&theme=vue-dark&hide_border=true)              | ) | ![Gregory-GRZESIAK's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gregory-GRZESIAK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  |
+| ![Github Stars](![Gregory-GRZESIAK's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gregory-GRZESIAK&theme=vue-dark&hide_border=true)               | ![Gregory-GRZESIAK's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gregory-GRZESIAK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  |
 
 
 “L’intelligence n’est pas la capacité de stocker des informations, mais de savoir où les trouver.”
