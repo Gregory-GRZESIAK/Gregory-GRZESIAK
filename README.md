@@ -61,7 +61,7 @@ Je suis Grégory Grzesiak
     <a href="#"><img alt="Godot engine" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"></a>
 </p>
 
-### 👨🏽‍💻 Workspace
+### 👨🏽‍💻Espace de travail
 <p>
     <a href="#"><img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"></a>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
