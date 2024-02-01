@@ -71,16 +71,14 @@ Je suis Grégory Grzesiak
 ## GitHub Stats
 
 
-|                                                                     Vishal's Stats                                                                     |
+|                                                                     Grégory Grzesiak - Stats                                                                   |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |![Gregory-GRZESIAK's Stats](https://github-readme-stats.vercel.app/api?username=Gregory-GRZESIAK&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) |
-| ![Gregory-GRZESIAK's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gregory-GRZESIAK&theme=vue-dark&hide_border=true)              | 
-| ![Gregory-GRZESIAK's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gregory-GRZESIAK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)                   | 
     
 
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|                                                                                                      Grégory Grzesiak - Streak                                                                                                           |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=Grégory-GRZESIAK&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grégory-GRZESIAK&langs_count=8&theme=algolia&layout=compact) |
+| ![Github Stars](![Gregory-GRZESIAK's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gregory-GRZESIAK&theme=vue-dark&hide_border=true)              | ) | ![Gregory-GRZESIAK's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gregory-GRZESIAK&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  |
 
 
 “L’intelligence n’est pas la capacité de stocker des informations, mais de savoir où les trouver.”
