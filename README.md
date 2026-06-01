@@ -16,7 +16,7 @@ Projects, repos and a proper README are on their way. Bear with me.
 - 🔭 Exploring the intersection of **physics, optics and code**
 - 🛠️ Building things that (usually) work on the second try
 - 📚 Always learning — whether I want to or not
-- 
+
 ---
 
 ## 📫 Get in touch
